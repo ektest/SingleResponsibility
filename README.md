@@ -1,2 +1,2 @@
 # SingleResponsibility
-# SingleResponsibility
+SingleResponsibility principle 
